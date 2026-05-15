@@ -13,7 +13,7 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 4. Predict the output for test data, calculate the model accuracy using accuracy_score(), and display the decision tree using plot_tree().
 
 ## Program:
-```
+
 /*
 Program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
 Developed by: Danaseelan G
